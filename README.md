@@ -1,1 +1,0 @@
-# Nextjs-stack-overflow
